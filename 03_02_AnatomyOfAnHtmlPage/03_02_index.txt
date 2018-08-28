@@ -1,0 +1,4 @@
+An HTML document is made up of a document type declaration (DTD) and different tags.
+The DTD is declared at the top of the page: <!DOCTYPE html> ….
+The different elements required for a basic HTML document: html, head, meta, title, body.
+We use MDN as our source for documentation to learn about the different elements.
